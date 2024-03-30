@@ -1,4 +1,4 @@
-# static-web-projects-practise
+# static-web-projects-practice
 Here are the static web projects with only  HTML  and CSS. 
 ## more projects coming soon...
 ![cat-gotchu](https://github.com/sujalthakur50575/static-web-projects-practise/assets/114757815/2c11ed3a-467c-4868-8c61-a7aa0c3bf190)
